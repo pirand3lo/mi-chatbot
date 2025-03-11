@@ -1,0 +1,12 @@
+# Ignora node_modules (si usas Node.js)
+node_modules/
+
+# Ignora el archivo .env (contiene variables sensibles)
+.env
+
+# Ignora archivos de configuración local de Vercel
+.vercel
+
+# Ignora archivos de sistema
+.DS_Store
+Thumbs.db
